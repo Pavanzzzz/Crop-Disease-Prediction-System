@@ -1,0 +1,10 @@
+train/
+val/
+test1/
+
+*.h5
+*.keras
+*.tflite
+
+__pycache__/
+.ipynb_checkpoints/
